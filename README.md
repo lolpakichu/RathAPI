@@ -12,5 +12,5 @@ RathAPI is a simple rest api that is used to multiply and divide numbers by usin
 3. Hit enter
 
 #### Examples
-![Screenshot](github.com/lolpakichu/RathAPI/tree/master/img/Divide.png)
-![Screenshot2](github.com/lolpakichu/RathAPI/tree/master/img/Multiply.png)
+![Screenshot](https://raw.githubusercontent.com/lolpakichu/RathAPI/master/img/Divide.png)
+![Screenshot2](https://raw.githubusercontent.com/lolpakichu/RathAPI/master/img/Multiply.png)
